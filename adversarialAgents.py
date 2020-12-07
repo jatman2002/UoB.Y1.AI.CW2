@@ -314,5 +314,3 @@ def betterEvaluationFunction(currentGameState):
         
     return score
     #returns score
-
-    util.raiseNotDefined()
